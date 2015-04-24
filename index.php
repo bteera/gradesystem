@@ -1,3 +1,3 @@
 <?php
-	echo "First Project Git";
+	phpinfo();
 ?>
